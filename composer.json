@@ -1,0 +1,15 @@
+{
+    "name": "teik/teik-variable-product",
+    "authors": [
+        {
+            "name": "teikk7",
+            "email": "k.lyzwa7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TVP\\": ["src/"]
+        }
+    },
+    "require": {}
+}
